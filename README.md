@@ -4,5 +4,4 @@
 
 ## An ALX Project
 
-#### Creating a shell that we can use to run commands as we wish
-
+#### Creating a shell that we can use to run comands as we wish
