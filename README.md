@@ -1,4 +1,4 @@
-# C Simple Shll Project
+# C Simple Shell Project
 
 ## Making our own shell
 
